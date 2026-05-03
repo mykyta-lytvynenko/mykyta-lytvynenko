@@ -8,7 +8,7 @@ I build tools that make AI operations faster, cheaper, and less painful.
 
 ### What I'm Building
 
-🔧 **[claude-code-starter-kit](https://github.com/Mykytacoding/claude-code-starter-kit)** — Opinionated setup system for Claude Code. Config, workflows, and patterns I use daily.
+🔧 **[claude-code-starter-kit](https://github.com/mykyta-lytvynenko/claude-code-starter-kit)** — Opinionated setup system for Claude Code. Config, workflows, and patterns I use daily.
 
 🧠 **Decision Blueprint** *(in progress)* — An app that captures *why* decisions get made in AI systems — not just what was built, but the tradeoffs, alternatives, and reasoning behind each architectural choice. Because six months from now, someone will ask "why do we do it this way?" and nobody will remember.
 
